@@ -1,0 +1,10 @@
+{
+  "name": "Bootcamp-TODOMVC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Heloisa Tosta",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.6.4"
+  }
+}
